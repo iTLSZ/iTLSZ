@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iTLSZ
+- 👀 I’m interested in technology, programming, web development, and many other things.
+- 🌱  I’m currently learning various web development technologies and frameworks.
+- 📫 How to contact me: You can contact me through my GitHub profile or Telegram.
+- 😄 Pronouns: I don't know
+- ⚡ Fun fact: I enjoy exploring new programming languages and building interesting projects during my free time.
