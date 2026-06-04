@@ -109,47 +109,6 @@ passion:  Transformar café ☕ en código ⚡</pre>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/iTLSZ">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/iTLSZ">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<br>
-
----
-
-## 🚀 Proyecto Destacado
-
-<div align="center">
-
-### 🤖 OracleAs Media Engine
-*Motor de descargas multimedia para Telegram de alto rendimiento*
-
-<br>
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](#)
-[![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](#)
-[![Asyncio](https://img.shields.io/badge/Asyncio-000000?style=flat-square&logo=python&logoColor=white)](#)
-
-<br>
-
-> ✅ **Soporte Global:** YouTube · Spotify · TikTok · Instagram · +1000 sitios <br>
-> 🎵 **Audio Premium:** MP3 a 320kbps · 🎬 **Video Máxima Calidad:** Hasta 4K · 🖼️ **Imágenes:** Carruseles HD
-
-</div>
-
-<br>
-
----
-
 ## 📡 Conéctate Conmigo
 
 <div align="center">
