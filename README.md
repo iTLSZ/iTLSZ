@@ -1,31 +1,36 @@
+Aquí lo tienes, limpio y directo para que lo copies sin problemas. 
+
+Dale al botón de "Copiar" arriba a la derecha de este cuadro gris y pégalo tal cual en tu repositorio:
+
+```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=iTLSZ%20(Luis)&fontSize=70&fontAlignY=35&desc=Fullstack%20Mastermind%20%7C%20Python%20%7C%20Bots&descAlignY=55&descAlign=62&animation=twinkling" />
+  <a href="https://github.com/iTLSZ">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=300&section=header&text=%3Ctodoesluis%2F%3E&fontSize=90&fontColor=FFFFFF&animation=twinkling&desc=Fullstack%20Mastermind%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=62" alt="todoesluis" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=VISITANTES+DEL+PERFIL&color=blueviolet&style=for-the-badge" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=CONEXIONES+A+LA+MATRIX&color=000000&style=for-the-badge" alt="Visitas" />
 </p>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" />
-  Transformando Ideas Complejas en Arquitecturas Escalables
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" />
-</h3>
+```json
+{
+  "developer": "<todoesluis/>",
+  "alias": "iTLSZ",
+  "role": "Fullstack Software Architect",
+  "mission": "Transformar ideas complejas en código asíncrono y escalable.",
+  "status": "Online 🟢 y automatizando el mundo"
+}
+```
 
-<p align="center">
-  Soy <b>&lt;todoesluis/&gt;</b>, un desarrollador <b>Fullstack</b> obsesionado con la automatización, las integraciones por API y el rendimiento. Mi especialidad es crear soluciones completas: desde interfaces dinámicas hasta motores de descarga asíncronos y robustos en el backend.
-</p>
+<h2 align="center">⚡ Mi Arsenal Tecnológico ⚡</h2>
 
----
-
-<h2 align="center">🚀 Mi Arsenal Tecnológico</h2>
-
-<p align="center"><i>(Haz clic para ver/ocultar las tecnologías)</i></p>
+<p align="center"><i>Despliega los módulos del sistema para ver mi stack</i></p>
 
 <div align="center">
 
 <details open>
-  <summary><b>🐍 Backend & Automatización</b></summary>
+  <summary><b>🔥 Módulo 1: Backend & Motor de Datos</b></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,7 +47,7 @@
 </details>
 
 <details open>
-  <summary><b>🎨 Frontend & Diseño UI</b></summary>
+  <summary><b>🎨 Módulo 2: Frontend & Experiencia de Usuario</b></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -56,7 +61,7 @@
 </details>
 
 <details open>
-  <summary><b>🛠️ Arquitectura, DevOps & Herramientas</b></summary>
+  <summary><b>⚙️ Módulo 3: Infraestructura & DevOps</b></summary>
   <br>
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -66,7 +71,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 </details>
 
@@ -74,22 +78,23 @@
 
 ---
 
-<h2 align="center">📫 Ponte en Contacto</h2>
+<h2 align="center">📡 Establecer Conexión</h2>
 
 <div align="center">
   <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
   <a href="https://t.me/Iluislo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF" alt="Telegram" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Transformando+café+en+código...;La+perfección+no+existe,+el+buen+código+sí." alt="Frases" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%3E_+$+Executing+masterplan...;%3E_+$+Code+is+poetry...;%3E_+$+%3Ctodoesluis%2F%3E+connected." alt="Terminal Typing" />
 </div>
+```
