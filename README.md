@@ -39,3 +39,14 @@
 ### **🤖 AI & Prompt Engineering**
 
 <img height="45" src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" /> <img height="45" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img height="45" src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /> <img height="45" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img height="45" src="https://img.shields.io/badge/Codex-0081FF?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /> <img height="45" src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge&logo=deepin&logoColor=white" alt="DeepSeek" /> <img height="45" src="https://img.shields.io/badge/Kimi-00B4D8?style=for-the-badge&logo=keras&logoColor=white" alt="Kimi" /> <img height="45" src="https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="MiniMax" /> <img height="45" src="https://img.shields.io/badge/Qwen-6200EA?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" /> <img height="45" src="https://img.shields.io/badge/OpenCode-00897B?style=for-the-badge&logo=github&logoColor=white" alt="OpenCode" />
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
