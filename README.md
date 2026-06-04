@@ -7,8 +7,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/iTLSZ"><img height="35" src="https://img.shields.io/badge/GitHub-iTLSZ-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;
   <a href="mailto:lopezluis.lals@hotmail.com"><img height="35" src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img height="35" src="https://img.shields.io/badge/LinkedIn-Luis_L%C3%B3pez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
