@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Luis%20L%C3%B3pez&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Fullstack%20Software%20Architect%20%C2%B7%20Automation%20Specialist%20%C2%B7%20Bot%20Builder&descSize=16&descAlignY=65&descColor=ffffffcc" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+intelligent+automation+systems+%F0%9F%A4%96;Transforming+ideas+into+scalable+solutions+%F0%9F%9A%80;Python+%C2%B7+FastAPI+%C2%B7+Telegram+Bots+%C2%B7+Cloud;Open+to+Work+%E2%80%94+Let%27s+build+something+great!" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=Luis+L%C3%B3pez;%3CtodoesLuis+%2F%3E;@iTLSZ" alt="Name typing" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=Fullstack+Software+Architect+%F0%9F%9A%80;Automation+Specialist+%E2%9A%A1;Bot+Builder+%7C+APIs+%7C+Cloud+%7C+AI;Open+to+Work+%E2%80%94+Let%27s+build+something+great!" alt="Role typing" />
+
 </div>
 
 <br>
@@ -21,7 +21,6 @@
 </div>
 
 <br>
-
 
 ## 🛠️ Tech Stack
 
