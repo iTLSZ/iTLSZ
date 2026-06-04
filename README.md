@@ -53,21 +53,46 @@ Philosophy:
 
 <div align="center">
 
-**Backend & Automation**
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,django,flask,php&theme=light&perline=8" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=light&perline=8" />
-
-**Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,sass,figma&theme=light&perline=9" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,nginx,githubactions,vscode&theme=light&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="220">
+      <h4>🐍 Backend &amp; Automation</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    </td>
+    <td align="center" width="220">
+      <h4>🗄️ Databases</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </td>
+    <td align="center" width="220">
+      <h4>🎨 Frontend &amp; UI</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    </td>
+    <td align="center" width="220">
+      <h4>⚙️ DevOps &amp; Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -76,4 +101,3 @@ Philosophy:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=flat-square" />
 </div>
-
