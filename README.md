@@ -7,22 +7,20 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/iTLSZ"><img src="https://img.shields.io/badge/GitHub-iTLSZ-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/iTLSZ"><img src="https://img.shields.io/badge/GitHub-iTLSZ-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:lopezluis.lals@hotmail.com"><img src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lopezluis.lals@hotmail.com"><img src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img src="https://img.shields.io/badge/LinkedIn-Luis_López-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img src="https://img.shields.io/badge/LinkedIn-Luis_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://t.me/Iluislo"><img src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Iluislo"><img src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
 </div>
 
 <br>
 
 ---
-
-<div align="center">
 
 **🐍 Backend & Automation**
 
@@ -73,5 +71,5 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge&logo=deepmind&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-00B4D8?style=for-the-badge&logo=moonshot&logoColor=white)
 ![MiniMax](https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
+![Qwen](https://img.shields.io/badge/Qwen-6200EA?style=for-the-badge&logo=alibabadotcom&logoColor=white)
+![OpenCoder](https://img.shields.io/badge/OpenCoder-00897B?style=for-the-badge&logo=github&logoColor=white)
