@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=Luis+L%C3%B3pez;%3CtodoesLuis+%2F%3E;@iTLSZ" alt="Name typing" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=Fullstack+Software+Architect+%F0%9F%9A%80;Automation+Specialist+%E2%9A%A1;Bot+Builder+%7C+APIs+%7C+Cloud+%7C+AI;Open+to+Work+%E2%80%94+Let%27s+build+something+great!" alt="Role typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3CtodoesLuis+%2F%3E;@iTLSZ" alt="Name typing" />
 
 </div>
 
@@ -80,10 +78,4 @@
   </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=flat-square" />
 </div>
