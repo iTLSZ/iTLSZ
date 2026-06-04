@@ -1,44 +1,67 @@
+<!-- HEADER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=%3Ctodoesluis%2F%3E&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f2d,100:00F0FF&height=220&section=header&text=%3Ctodoesluis%2F%3E&fontSize=90&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Fullstack+Software+Architect+%7C+Automation+Specialist&descSize=16&descAlignY=58&descAlign=50&descColor=ffffff" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_System.out.println(%22Hello+World!%22);%3E_Fullstack+Software+Architect;%3E_Automation+Ninja;%3E_Building+the+Future+⚡" alt="Typing SVG" />
-</h1>
+<!-- TYPING SVG PRINCIPAL -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E_+Bienvenido+a+mi+universo+de+c%C3%B3digo+%F0%9F%9A%80;%3E_+Fullstack+%7C+APIs+%7C+Bots+%7C+Automation;%3E_+Transformando+caf%C3%A9+%E2%98%95+en+c%C3%B3digo+%E2%9A%A1;%3E_+if(!solution)+%7B+tryHarder()%3B+%7D" alt="Typing SVG" />
+</div>
 
+<br>
+
+<!-- BADGES DE ESTADO -->
 <div align="center">
   <a href="https://github.com/iTLSZ">
-    <img src="https://img.shields.io/badge/Senior_Dev-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/⚡_Senior_Dev-00F0FF?style=for-the-badge&logoColor=black&labelColor=000000" />
   </a>
   <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/Open_to_Work-00FF88?style=for-the-badge&logo=freelancer&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🟢_Open_to_Work-00FF88?style=for-the-badge&logoColor=black&labelColor=000000" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=👁️+PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=000000" />
 </div>
 
 <br>
 
+---
+
+<!-- ABOUT ME - TERMINAL STYLE -->
 <div align="center">
-  <table border="1" cellpadding="20" cellspacing="0" style="border-collapse: collapse; background: #0b0f19; border: 2px solid #00F0FF; border-radius: 10px;">
-    <tr>
-      <td width="750">
-        <h3 align="center" style="color: #00F0FF;"><code>&gt;_ INICIANDO PROTOCOLO iTLSZ.exe</code></h3>
-        <p align="center">
-          <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" align="right" style="border-radius: 10px; margin-left: 20px;" />
-          <code>[+] Cargando módulos principales...</code><br><br>
-          <b style="color: #fff;">🌍 Base de operaciones:</b> Latinoamérica<br>
-          <b style="color: #fff;">💡 Rol Principal:</b> Fullstack Software Architect & Automation Specialist<br>
-          <b style="color: #fff;">🚀 Misión:</b> Transformar café ☕ en código eficiente y escalable ⚡<br>
-          <b style="color: #fff;">🔧 Especialidad:</b> Construcción de bots, motores de descarga y arquitecturas cloud.<br>
-          <br>
-          <i><span style="color: #00FF88;">"Si no hay solución, todavía no lo he intentado."</span></i>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║           >_ INICIANDO PROTOCOLO iTLSZ.SH v2.0               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  [+] USER ......... Luis López  @todoesluis / @iTLSZ         ║
+║  [+] LOCATION ..... 🌎 Latinoamérica                         ║
+║  [+] ROLE ......... Fullstack Software Architect              ║
+║  [+] FOCUS ........ Backend · APIs · Bots · Automation        ║
+║  [+] STATUS ....... Open to Work ✅                           ║
+║  [+] PASSION ...... Transformar ☕ en código ⚡               ║
+║                                                               ║
+║  ★  "Si no hay solución, todavía no lo he intentado."  ★    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<br>
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius:15px"/>
+
+### 🔭 Actualmente:
+- Construyendo **bots y motores de descarga avanzados** con Python
+- Explorando **arquitecturas cloud, IA y microservicios**
+- Automatizando procesos con **Telegram Bots & FastAPI**
+
+### 🎯 Metas:
+- Automatizar todo lo que se pueda automatizar
+- Escalar proyectos que impacten miles de usuarios
+
+### ⚡ Fun facts:
+- Mis commits en producción tienen nombre propio
+- El `print("hola mundo")` aún me emociona
+
+<br clear="both"/>
 
 ---
 
@@ -106,26 +129,65 @@
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <br>
-  <h2><code>--- &lt; STATUS: ONLINE &gt; ---</code></h2>
-  <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=microsoftoutlook&logoColor=00F0FF&labelColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=000000" />
-  </a>
-  <a href="https://t.me/Iluislo">
-    <img src="https://img.shields.io/badge/Telegram-0b0f19?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=000000" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00FF88&text_color=ffffff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=git+commit+-m+%22Creating+awesomeness%22;const+%7B+success+%7D+=+require('hardwork');while(alive)+%7B+code();+%7D" alt="Typing SVG Footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTLSZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF" />
+</div>
+
+<br>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iTLSZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 📡 Conéctate Conmigo
+
+<div align="center">
+  <a href="mailto:lopezluis.lals@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Iluislo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=while(alive)+%7B+code()+%7D;const+future+%3D+await+hardWork();git+commit+-m+%22Change+the+world+%F0%9F%9A%80%22" alt="Typing SVG Footer" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0d1f2d,100:0a0a0a&height=120&section=footer" />
 </div>
