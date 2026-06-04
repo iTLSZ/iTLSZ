@@ -20,6 +20,31 @@
 
 ---
 
+### 👨‍💻 `developer_profile.json`
+
+```json
+{
+  "name": "Luis López",
+  "alias": "@iTLSZ / todoesluis",
+  "role": "Fullstack Software Architect",
+  "specialty": "Bot Builder & Automation",
+  "location": "🌎 Latinoamérica",
+  "focus": ["Backend", "APIs", "Cloud Infrastructure", "AI"],
+  "currently_building": [
+    "Advanced multimedia download engine",
+    "High-performance Telegram bots"
+  ],
+  "philosophy": "If there's no solution, I just haven't tried yet.",
+  "status": "🟢 Open to Work"
+}
+```
+
+---
+
+<br>
+
+<div align="center">
+
 **🐍 Backend & Automation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,3 +96,13 @@
 ![MiniMax](https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6200EA?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-00897B?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Simplicity%20is%20the%20soul%20of%20efficiency.&author=Austin%20Freeman" />
+</div>
