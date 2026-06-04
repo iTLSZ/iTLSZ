@@ -4,38 +4,44 @@
 
 <div align="center">
   <a href="https://github.com/iTLSZ">
-    <img src="https://img.shields.io/badge/Nivel-Senior%20Dev-00F0FF?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Nivel-Senior%20Dev-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/Estado-Open%20to%20Work-00FF88?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Estado-Open%20to%20Work-00FF88?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=VISITAS&color=FF6B6B&style=for-the-badge&labelColor=000000" />
 </div>
 
 <br>
 
----
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-### 👋 ¡Hola, universo! Soy **`<todoesluis/>`**
-
-```yaml
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr>
+    <td width="50%" align="center" style="border: none; background: transparent;">
+      <img alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+    </td>
+    <td width="50%" style="border: none; background: transparent;">
+      <h3>👋 ¡Hola, universo! Soy <strong><code>&lt;todoesluis/&gt;</code></strong></h3>
+      <pre lang="yaml">
 name:     Luis López
-alias:    todoesluis  |  iTLSZ
+alias:    todoesluis | iTLSZ
 location: 🌎 Latinoamérica
 role:     Fullstack Software Architect
-focus:    Backend Automation · APIs · Bots
-passion:  Transformar café ☕ en código ⚡
-```
+focus:    Backend Automation · APIs
+passion:  Transformar café ☕ en código ⚡</pre>
+    </td>
+  </tr>
+</table>
 
-- 🔭 Construyendo **bots y motores de descarga avanzados** con Python
-- 🌱 Explorando siempre **arquitecturas cloud, IA y microservicios**
-- 🎯 Meta actual: **Automatizar todo lo que se pueda automatizar**
-- 💬 Pregúntame sobre **Python, APIs, Telegram Bots, Full Stack**
-- ⚡ Fun fact: **Si no hay solución, todavía no lo he intentado yo**
+<div align="center">
+  
+🔭 Construyendo <b>bots y motores de descarga avanzados</b> con Python <br>
+🌱 Explorando siempre <b>arquitecturas cloud, IA y microservicios</b> <br>
+🎯 Meta actual: <b>Automatizar todo lo que se pueda automatizar</b> <br>
+⚡ Fun fact: <b>Si no hay solución, todavía no lo he intentado yo</b>
 
-<br clear="both"/>
+</div>
+
+<br>
 
 ---
 
@@ -103,30 +109,62 @@ passion:  Transformar café ☕ en código ⚡
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/iTLSZ">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/iTLSZ">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br>
+
+---
+
 ## 🚀 Proyecto Destacado
 
 <div align="center">
 
-| 🤖 OracleAs Media Engine |
-|:---:|
-| *Motor de descargas multimedia para Telegram de alto rendimiento* |
-| `Python` `Telegram Bot API` `yt-dlp` `spotdl` `asyncio` `FFmpeg` |
-| ✅ YouTube · Spotify · TikTok · Instagram · +1000 sitios |
-| 🎵 MP3 a 320kbps · 🎬 Video hasta 4K · 🖼️ Carruseles HD |
+### 🤖 OracleAs Media Engine
+*Motor de descargas multimedia para Telegram de alto rendimiento*
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](#)
+[![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](#)
+[![Asyncio](https://img.shields.io/badge/Asyncio-000000?style=flat-square&logo=python&logoColor=white)](#)
+
+<br>
+
+> ✅ **Soporte Global:** YouTube · Spotify · TikTok · Instagram · +1000 sitios <br>
+> 🎵 **Audio Premium:** MP3 a 320kbps · 🎬 **Video Máxima Calidad:** Hasta 4K · 🖼️ **Imágenes:** Carruseles HD
 
 </div>
+
+<br>
 
 ---
 
 ## 📡 Conéctate Conmigo
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/lopezluis.lals%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lopezluis.lals@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/Luis%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-lopez-1a9524387/)
-[![Telegram](https://img.shields.io/badge/@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iluislo)
-
+  <a href="mailto:lopezluis.lals@hotmail.com">
+    <img src="https://img.shields.io/badge/lopezluis.lals@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/">
+    <img src="https://img.shields.io/badge/Luis%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Iluislo">
+    <img src="https://img.shields.io/badge/@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </div>
+
+<br>
 
 ---
 
