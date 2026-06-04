@@ -7,15 +7,15 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/iTLSZ"><img src="https://img.shields.io/badge/GitHub-iTLSZ-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/iTLSZ"><img height="35" src="https://img.shields.io/badge/GitHub-iTLSZ-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:lopezluis.lals@hotmail.com"><img src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lopezluis.lals@hotmail.com"><img height="35" src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img src="https://img.shields.io/badge/LinkedIn-Luis_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img height="35" src="https://img.shields.io/badge/LinkedIn-Luis_L%C3%B3pez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://t.me/Iluislo"><img src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Iluislo"><img height="35" src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
+  <img height="35" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
 </div>
 
 <br>
@@ -72,4 +72,4 @@
 ![Kimi](https://img.shields.io/badge/Kimi-00B4D8?style=for-the-badge&logo=moonshot&logoColor=white)
 ![MiniMax](https://img.shields.io/badge/MiniMax-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6200EA?style=for-the-badge&logo=alibabadotcom&logoColor=white)
-![OpenCoder](https://img.shields.io/badge/OpenCoder-00897B?style=for-the-badge&logo=github&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-00897B?style=for-the-badge&logo=github&logoColor=white)
