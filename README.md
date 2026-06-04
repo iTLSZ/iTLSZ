@@ -1,155 +1,140 @@
-<!-- HEADER ANIMADO -->
+<!-- ============================================================ -->
+<!--              GITHUB PROFILE — iTLSZ · todoesluis            -->
+<!-- ============================================================ -->
+
+<!-- ░░ HEADER BANNER ░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f2d,100:00F0FF&height=220&section=header&text=%3Ctodoesluis%2F%3E&fontSize=90&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Fullstack+Software+Architect+%7C+Automation+Specialist&descSize=16&descAlignY=58&descAlign=50&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Luis%20López%20·%20iTLSZ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20Fullstack%20Dev%20%2F%3E%20·%20Automation%20Architect%20·%20Bot%20Builder&descSize=15&descAlignY=62&descColor=ffffffaa" />
 </div>
 
-<!-- TYPING SVG PRINCIPAL -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E_+Bienvenido+a+mi+universo+de+c%C3%B3digo+%F0%9F%9A%80;%3E_+Fullstack+%7C+APIs+%7C+Bots+%7C+Automation;%3E_+Transformando+caf%C3%A9+%E2%98%95+en+c%C3%B3digo+%E2%9A%A1;%3E_+if(!solution)+%7B+tryHarder()%3B+%7D" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- BADGES DE ESTADO -->
+<!-- ░░ TYPING HEADLINE ░░ -->
 <div align="center">
   <a href="https://github.com/iTLSZ">
-    <img src="https://img.shields.io/badge/⚡_Senior_Dev-00F0FF?style=for-the-badge&logoColor=black&labelColor=000000" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=%3E+Building+intelligent+bots+%F0%9F%A4%96;%3E+Automating+everything+that+moves+%E2%9A%A1;%3E+APIs+%7C+FastAPI+%7C+Telegram+%7C+Python;%3E+if+(!solution)+%7B+tryHarder()%3B+%7D;%3E+git+push+origin+future" alt="Typing SVG" />
   </a>
-  <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/🟢_Open_to_Work-00FF88?style=for-the-badge&logoColor=black&labelColor=000000" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=iTLSZ&label=👁️+PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=000000" />
+</div>
+
+<br>
+
+<!-- ░░ STATUS BADGES ░░ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Fullstack_Dev-0D1117?style=flat-square&logo=github&logoColor=58A6FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to_Work-238636?style=flat-square&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Automation_Lover-6e40c9?style=flat-square&logo=zapier&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=iTLSZ&color=58A6FF&style=flat-square&label=profile+views" />
 </div>
 
 <br>
 
 ---
 
-<!-- ABOUT ME - TERMINAL STYLE -->
-<div align="center">
+<!-- ░░ ABOUT ME — SPLIT LAYOUT ░░ -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="55%" valign="top">
 
+### 👨‍💻 `whoami`
+
+```yaml
+name:      Luis López
+alias:     todoesluis  ·  iTLSZ
+location:  🌎 Latinoamérica
+role:      Fullstack Software Architect
+specialty: Bots · APIs · Automation · Cloud
+stack:     Python, FastAPI, Node.js, React
+
+currently_building:
+  - 🤖 Motor de descarga multimedia (Telegram)
+  - ⚡ Pipelines de automatización avanzada
+
+philosophy: >
+  "Si todavía no hay solución,
+   es porque aún no lo intenté yo."
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║           >_ INICIANDO PROTOCOLO iTLSZ.SH v2.0               ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  [+] USER ......... Luis López  @todoesluis / @iTLSZ         ║
-║  [+] LOCATION ..... 🌎 Latinoamérica                         ║
-║  [+] ROLE ......... Fullstack Software Architect              ║
-║  [+] FOCUS ........ Backend · APIs · Bots · Automation        ║
-║  [+] STATUS ....... Open to Work ✅                           ║
-║  [+] PASSION ...... Transformar ☕ en código ⚡               ║
-║                                                               ║
-║  ★  "Si no hay solución, todavía no lo he intentado."  ★    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
-</div>
+</td>
+<td width="45%" align="center" valign="top">
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius:15px"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" style="border-radius:12px" />
 
-### 🔭 Actualmente:
-- Construyendo **bots y motores de descarga avanzados** con Python
-- Explorando **arquitecturas cloud, IA y microservicios**
-- Automatizando procesos con **Telegram Bots & FastAPI**
+</td>
+</tr>
+</table>
 
-### 🎯 Metas:
-- Automatizar todo lo que se pueda automatizar
-- Escalar proyectos que impacten miles de usuarios
-
-### ⚡ Fun facts:
-- Mis commits en producción tienen nombre propio
-- El `print("hola mundo")` aún me emociona
-
-<br clear="both"/>
+<br>
 
 ---
 
-## 🛠️ Stack Tecnológico Completo
-
-<details open>
-<summary>🐍 &nbsp;<b>Backend & Automatización</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</details>
-
-<details open>
-<summary>🗄️ &nbsp;<b>Bases de Datos</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-</details>
-
-<details open>
-<summary>🎨 &nbsp;<b>Frontend & UI</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-<details open>
-<summary>⚙️ &nbsp;<b>DevOps, Cloud & Herramientas</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00FF88&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" />
-</div>
 
-<br>
+**Backend & Automatización**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTLSZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,django,fastapi,flask,php,graphql&perline=8&theme=dark" />
+
+<br><br>
+
+**Bases de Datos & Storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&perline=8&theme=dark" />
+
+<br><br>
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,sass,figma&perline=9&theme=dark" />
+
+<br><br>
+
+**DevOps, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,nginx,githubactions,postman,vscode&perline=9&theme=dark" />
+
 </div>
 
 <br>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iTLSZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+<a href="https://github.com/iTLSZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/iTLSZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=iTLSZ&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=f85149&currStreakLabel=58A6FF&dates=c9d1d9" />
+</div>
+
+<br>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iTLSZ&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iTLSZ&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&area_color=1f3a5f" />
 </div>
 
 ---
@@ -158,26 +143,39 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/iTLSZ/iTLSZ/output/github-snake.svg" />
   </picture>
 </div>
 
 ---
 
-## 📡 Conéctate Conmigo
+## 🚀 Proyecto Destacado
 
 <div align="center">
-  <a href="mailto:lopezluis.lals@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/Iluislo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+
+[![OracleAs Card](https://github-readme-stats.vercel.app/api/pin/?username=iTLSZ&repo=iTLSZ&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/iTLSZ)
+
+| 🤖 **OracleAs Media Engine** |
+|:---:|
+| Motor de descargas multimedia para Telegram de alto rendimiento |
+| `Python` · `yt-dlp` · `spotdl` · `FFmpeg` · `asyncio` |
+| ✅ YouTube · Spotify · TikTok · Instagram · +1000 sitios |
+| 🎵 MP3 320kbps · 🎬 Video 4K · 🖼️ Carruseles HD |
+
+</div>
+
+---
+
+## 📡 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/lopezluis.lals@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lopezluis.lals@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/Luis_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-lopez-1a9524387/)
+[![Telegram](https://img.shields.io/badge/@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iluislo)
+
 </div>
 
 <br>
@@ -185,9 +183,9 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=while(alive)+%7B+code()+%7D;const+future+%3D+await+hardWork();git+commit+-m+%22Change+the+world+%F0%9F%9A%80%22" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B+·+Let's+build+something+great" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0d1f2d,100:0a0a0a&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer" />
 </div>
