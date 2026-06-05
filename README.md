@@ -34,11 +34,7 @@
   </p>
 </div>
 
-<br>
-
-
-
-<br>
+<br clear="all">
 
 ### **🐍 Backend & Automation**
 
