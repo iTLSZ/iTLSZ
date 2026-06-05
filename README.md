@@ -23,21 +23,10 @@
 <br>
 
 <div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║ PLAYER SELECT: LUIS LÓPEZ (iTLSZ)                  ║
-╠════════════════════════════════════════════════════╣
-║ [ CLASS ] Fullstack Mage / AI Summoner             ║
-║ [ LEVEL ] 99                                       ║
-║ [ HP ☕ ] ██████████░░ 80%                         ║
-║ [ MP 🧠 ] ████████████ 100%                        ║
-║                                                    ║
-║ > WEAPONS EQUIPPED: Python, Next.js, Docker, AWS   ║
-║ > MAIN QUEST: "Si la solución no existe, la busco" ║
-╚════════════════════════════════════════════════════╝
-```
-
+  <p>
+    <b>Si la solución no existe, yo la busco (o la construyo). 🛠️</b><br>
+    Desarrollador Fullstack especializado en crear aplicaciones web modernas, automatizar<br>procesos complejos con Python y desplegar soluciones en ecosistemas Cloud.
+  </p>
 </div>
 
 <br>
