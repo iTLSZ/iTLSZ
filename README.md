@@ -11,26 +11,21 @@
 <br>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr>
-      <td align="center" valign="middle" width="50%" style="border: none;">
-        <a href="mailto:lopezluis.lals@hotmail.com"><img height="45" src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img height="45" src="https://img.shields.io/badge/LinkedIn-Luis_L%C3%B3pez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <br><br>
-        <a href="https://t.me/Iluislo"><img height="45" src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-        <img height="45" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
-      </td>
-      <td align="center" valign="middle" width="50%" style="border: none;">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:lopezluis.lals@hotmail.com"><img height="45" src="https://img.shields.io/badge/Email-lopezluis.lals-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luis-lopez-1a9524387/"><img height="45" src="https://img.shields.io/badge/LinkedIn-Luis_L%C3%B3pez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://t.me/Iluislo"><img height="45" src="https://img.shields.io/badge/Telegram-@Iluislo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  &nbsp;
+  <img height="45" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 <br>
