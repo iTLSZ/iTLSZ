@@ -20,11 +20,9 @@
   <img height="45" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
 </div>
 
-<br>
-
 <div align="justify">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
-    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="300" />
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="300" />
   </a>
   <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em></h3>
   <p>
