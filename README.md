@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3C%E2%80%8BtodoesLuis%2F%3E;@iTLSZ" alt="Name typing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=F8F8F8&center=true&vCenter=true&width=700&height=90&lines=%3C%E2%80%8BtodoesLuis%2F%3E;@iTLSZ">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3C%E2%80%8BtodoesLuis%2F%3E;@iTLSZ">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3C%E2%80%8BtodoesLuis%2F%3E;@iTLSZ" alt="Name typing" />
+</picture>
 
 </div>
 
