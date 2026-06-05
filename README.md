@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=F8F8F8&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Apasionado+por+la+Inteligencia+Artificial;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=24292e&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Apasionado+por+la+Inteligencia+Artificial;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=24292e&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Apasionado+por+la+Inteligencia+Artificial;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E" alt="Name typing" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=F8F8F8&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=24292e&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=24292e&center=true&vCenter=true&width=850&height=90&lines=Fullstack+Developer;Desarrollador+Backend+%26+Frontend;Creador+de+Bots+y+Automatizaciones;Experto+en+Prompt+Engineering;%3C%E2%80%8BtodoesLuis%2F%3E" alt="Name typing" />
 </picture>
 
 </div>
