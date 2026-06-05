@@ -20,14 +20,19 @@
   <img height="45" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
 </div>
 
-<div align="justify">
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true">
       <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=true&hide_remaster=true">
-      <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="300" style="margin-right: 15px;" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="300" />
     </picture>
   </a>
+</div>
+
+<br>
+
+<div align="justify">
   <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em></h3>
   <p>
     Soy la definición de un desarrollador <img src="https://img.shields.io/badge/FULLSTACK-20232A?style=for-the-badge" height="20" valign="middle" /> versátil. Ya sea en <img src="https://img.shields.io/badge/WEB-007ACC?style=for-the-badge" height="20" valign="middle" />, <img src="https://img.shields.io/badge/MOBILE-3DDC84?style=for-the-badge" height="20" valign="middle" /> o lo que me pongan enfrente: <b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <img src="https://img.shields.io/badge/BACKEND-092E20?style=for-the-badge" height="20" valign="middle" /> a prueba de fuego, yo armo el rompecabezas completo. Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles, especialmente la <img src="https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-412991?style=for-the-badge" height="20" valign="middle" />, para transformar conceptos abstractos en productos reales.
