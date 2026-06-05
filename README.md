@@ -25,7 +25,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true">
       <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=true&hide_remaster=true">
-      <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="220" style="margin-right: 15px;" />
+      <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="45%" style="margin-right: 15px;" />
     </picture>
   </a>
   <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em></h3>
