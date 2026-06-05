@@ -19,8 +19,8 @@
 <br>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=TU_USUARIO_AQUI&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_USUARIO_AQUI&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
