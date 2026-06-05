@@ -22,7 +22,8 @@
 
 <br>
 
-<div align="center">
+<div align="justify">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPq4X2x24/giphy.gif" alt="Coding Animation" align="right" width="22%" />
   <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em></h3>
   <p>
     Soy la definición de un desarrollador <img src="https://img.shields.io/badge/FULLSTACK-20232A?style=for-the-badge" height="20" valign="middle" /> versátil. Ya sea en <img src="https://img.shields.io/badge/WEB-007ACC?style=for-the-badge" height="20" valign="middle" />, <img src="https://img.shields.io/badge/MOBILE-3DDC84?style=for-the-badge" height="20" valign="middle" /> o lo que me pongan enfrente: <b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <img src="https://img.shields.io/badge/BACKEND-092E20?style=for-the-badge" height="20" valign="middle" /> a prueba de fuego, yo armo el rompecabezas completo. Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles, especialmente la <img src="https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-412991?style=for-the-badge" height="20" valign="middle" />, para transformar conceptos abstractos en productos reales.
