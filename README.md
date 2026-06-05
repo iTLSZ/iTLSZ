@@ -23,10 +23,20 @@
 <br>
 
 <div align="center">
-  <p>
-    <b>Si la solución no existe, yo la busco (o la construyo). 🛠️</b><br>
-    Desarrollador Fullstack especializado en crear aplicaciones web modernas, automatizar<br>procesos complejos con Python y desplegar soluciones en ecosistemas Cloud.
-  </p>
+
+> ### 🤖👀 *"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."*
+>
+> Soy la definición de un desarrollador **Fullstack versátil**. No importa si el proyecto requiere una interfaz web súper rápida, una aplicación en Android Studio, una base de datos distribuida o un Backend a prueba de fuego: **yo armo el rompecabezas completo.**
+> 
+> Me dedico a exprimir todas las tecnologías posibles para transformar cualquier idea en un producto digital real.
+
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTLSZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTLSZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
