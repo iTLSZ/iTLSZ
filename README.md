@@ -30,10 +30,7 @@
       <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em> 🤖👀</h3>
       <br>
       <p>
-        Soy la definición de un desarrollador <kbd>FULLSTACK</kbd> versátil. Ya sea en <kbd>WEB</kbd>, <kbd>MOBILE</kbd> o lo que me pongan enfrente:<br><b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <kbd>BACKEND</kbd><br>a prueba de fuego, yo armo el rompecabezas completo.
-      </p>
-      <p>
-        Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles,<br>especialmente la <kbd>INTELIGENCIA ARTIFICIAL</kbd>, para transformar conceptos abstractos en productos reales.
+        Soy la definición de un desarrollador <kbd>FULLSTACK</kbd> versátil. Ya sea en <kbd>WEB</kbd>, <kbd>MOBILE</kbd> o lo que me pongan enfrente: <b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <kbd>BACKEND</kbd> a prueba de fuego, yo armo el rompecabezas completo. Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles, especialmente la <kbd>INTELIGENCIA ARTIFICIAL</kbd>, para transformar conceptos abstractos en productos reales.
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
