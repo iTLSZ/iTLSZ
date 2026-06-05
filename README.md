@@ -22,20 +22,24 @@
 
 <br>
 
-<div align="center">
-  <p>
-    <b>Si la solución no existe, yo la busco (o la construyo). 🛠️</b><br>
-    Desarrollador Fullstack especializado en crear aplicaciones web modernas, automatizar<br>procesos complejos con Python y desplegar soluciones en ecosistemas Cloud.
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
+<table width="100%" border="0">
+  <tr>
+    <td width="55%" align="left">
+      <h3 align="center">Si la solución no existe, yo la busco. 🛠️</h3>
+<pre><code>const developer = {
+    name: "Luis López",
+    roles: ["Fullstack", "Backend", "AI"],
+    superpower: "Automatización con Python",
+    cloud: "AWS & Docker"
+};</code></pre>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
