@@ -25,9 +25,13 @@
 <table width="100%" border="0" style="border:none;">
   <tr>
     <td width="70%" align="left" valign="middle">
-      <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em> 🤖👀</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=6366F1&center=false&vCenter=false&width=500&lines=%22He+integrado+tanta+IA...%22;%22y+automatizado+tantos+procesos...%22;%22que+dudo+si+tambi%C3%A9n+soy+un+script.%22">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=6366F1&center=false&vCenter=false&width=500&lines=%22He+integrado+tanta+IA...%22;%22y+automatizado+tantos+procesos...%22;%22que+dudo+si+tambi%C3%A9n+soy+un+script.%22">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=6366F1&center=false&vCenter=false&width=500&lines=%22He+integrado+tanta+IA...%22;%22y+automatizado+tantos+procesos...%22;%22que+dudo+si+tambi%C3%A9n+soy+un+script.%22" alt="Typing text" />
+      </picture> 🤖👀
       <p>
-        Soy la definición de un desarrollador <kbd>FULLSTACK</kbd> versátil. Ya sea en <kbd>WEB</kbd>, <kbd>MOBILE</kbd> o lo que me pongan enfrente: <b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <kbd>BACKEND</kbd> a prueba de fuego, yo armo el rompecabezas completo. Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas tecnologías posibles, especialmente la <kbd>INTELIGENCIA ARTIFICIAL</kbd>, para transformar conceptos abstractos en productos reales.
+        Soy la definición de un desarrollador <img src="https://img.shields.io/badge/FULLSTACK-20232A?style=for-the-badge" height="20" valign="middle" /> versátil. Ya sea en <img src="https://img.shields.io/badge/WEB-007ACC?style=for-the-badge" height="20" valign="middle" />, <img src="https://img.shields.io/badge/MOBILE-3DDC84?style=for-the-badge" height="20" valign="middle" /> o lo que me pongan enfrente: <b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <img src="https://img.shields.io/badge/BACKEND-092E20?style=for-the-badge" height="20" valign="middle" /> a prueba de fuego, yo armo el rompecabezas completo. Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles, especialmente la <img src="https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-412991?style=for-the-badge" height="20" valign="middle" />, para transformar conceptos abstractos en productos reales.
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
