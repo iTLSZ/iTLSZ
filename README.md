@@ -22,17 +22,27 @@
 
 <br>
 
-<div align="center">
-  <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em> 🤖👀</h3>
-  <br>
-  <p>
-    Soy la definición de un desarrollador <kbd>FULLSTACK</kbd> versátil. Ya sea en <kbd>WEB</kbd>, <kbd>MOBILE</kbd> o lo que me pongan enfrente:<br><b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <kbd>BACKEND</kbd><br>a prueba de fuego, yo armo el rompecabezas completo.
-  </p>
-  <br>
-  <p>
-    Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles,<br>especialmente la <kbd>INTELIGENCIA ARTIFICIAL</kbd>, para transformar conceptos abstractos en productos reales.
-  </p>
-</div>
+<hr>
+
+<table width="100%" border="0" style="border:none;">
+  <tr>
+    <td width="70%" align="left" valign="middle">
+      <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em> 🤖👀</h3>
+      <br>
+      <p>
+        Soy la definición de un desarrollador <kbd>FULLSTACK</kbd> versátil. Ya sea en <kbd>WEB</kbd>, <kbd>MOBILE</kbd> o lo que me pongan enfrente:<br><b>¡puedo con todo!</b> No importa si el proyecto exige materializar ideas locas o construir un <kbd>BACKEND</kbd><br>a prueba de fuego, yo armo el rompecabezas completo.
+      </p>
+      <p>
+        Cada día aprendo algo nuevo y busco retos más grandes. Me dedico a exprimir todas las tecnologías posibles,<br>especialmente la <kbd>INTELIGENCIA ARTIFICIAL</kbd>, para transformar conceptos abstractos en productos reales.
+      </p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggCGvnPq4X2x24/giphy.gif" alt="Coding Animation" width="180" />
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 <br>
 
