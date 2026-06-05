@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3CtodoesLuis+%2F%3E;@iTLSZ" alt="Name typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1800&pause=600&color=24292e&center=true&vCenter=true&width=700&height=90&lines=%3CtodoesLuis%2F%3E;@iTLSZ" alt="Name typing" />
 
 </div>
 
