@@ -23,10 +23,9 @@
 <br>
 
 <div align="center">
-  <h3><em>"He integrado tanta Inteligencia Artificial y automatizado tantos procesos que a veces me pregunto si yo también soy un script."</em> 🤖👀</h3>
   <p>
-    Soy la definición de un desarrollador Fullstack versátil. No importa si el proyecto requiere una interfaz web súper rápida, una aplicación en Android Studio, una base de datos distribuida o un Backend a prueba de fuego: <b>yo armo el rompecabezas completo.</b><br><br>
-    Me dedico a exprimir todas las tecnologías posibles para transformar cualquier idea loca en un producto digital real.
+    <b>Si la solución no existe, yo la busco (o la construyo). 🛠️</b><br>
+    Desarrollador Fullstack especializado en crear aplicaciones web modernas, automatizar<br>procesos complejos con Python y desplegar soluciones en ecosistemas Cloud.
   </p>
 </div>
 
