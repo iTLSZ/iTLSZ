@@ -20,17 +20,14 @@
   <img height="45" src="https://komarev.com/ghpvc/?username=iTLSZ&label=Profile%20views&color=6366F1&style=for-the-badge" />
 </div>
 
-<div align="justify">
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&redirect=true">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true">
       <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=true&hide_remaster=true">
-      <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="220" style="margin-right: 15px;" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deukve7x5wtkzjniofg5tpmb6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true" alt="Spotify Now Playing" width="220" />
     </picture>
   </a>
-  <p>
-    𝚂𝚘𝚢 𝚕𝚊 𝚍𝚎𝚏𝚒𝚗𝚒𝚌𝚒ó𝚗 𝚍𝚎 𝚞𝚗 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚊𝚍𝚘𝚛 <img src="https://img.shields.io/badge/FULLSTACK-20232A?style=for-the-badge&logo=stackblitz&logoColor=1389FD" height="20" valign="middle" /> 𝚟𝚎𝚛𝚜á𝚝𝚒𝚕. 𝚈𝚊 𝚜𝚎𝚊 𝚎𝚗 <img src="https://img.shields.io/badge/WEB-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" height="20" valign="middle" />, <img src="https://img.shields.io/badge/MOBILE-20232A?style=for-the-badge&logo=android&logoColor=3DDC84" height="20" valign="middle" /> 𝚘 𝚕𝚘 𝚚𝚞𝚎 𝚖𝚎 𝚙𝚘𝚗𝚐𝚊𝚗 𝚎𝚗𝚏𝚛𝚎𝚗𝚝𝚎: <b>¡𝚙𝚞𝚎𝚍𝚘 𝚌𝚘𝚗 𝚝𝚘𝚍𝚘!</b> 𝙽𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊 𝚜𝚒 𝚎𝚕 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘 𝚎𝚡𝚒𝚐𝚎 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚒𝚣𝚊𝚛 𝚒𝚍𝚎𝚊𝚜 𝚕𝚘𝚌𝚊𝚜 𝚘 𝚌𝚘𝚗𝚜𝚝𝚛𝚞𝚒𝚛 𝚞𝚗 <img src="https://img.shields.io/badge/BACKEND-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" height="20" valign="middle" /> 𝚊 𝚙𝚛𝚞𝚎𝚋𝚊 𝚍𝚎 𝚏𝚞𝚎𝚐𝚘, 𝚢𝚘 𝚊𝚛𝚖𝚘 𝚎𝚕 𝚛𝚘𝚖𝚙𝚎𝚌𝚊𝚋𝚎𝚣𝚊𝚜 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚘. 𝙲𝚊𝚍𝚊 𝚍í𝚊 𝚊𝚙𝚛𝚎𝚗𝚍𝚘 𝚊𝚕𝚐𝚘 𝚗𝚞𝚎𝚟𝚘 𝚢 𝚋𝚞𝚜𝚌𝚘 𝚛𝚎𝚝𝚘𝚜 𝚖á𝚜 𝚐𝚛𝚊𝚗𝚍𝚎𝚜. 𝙼𝚎 𝚍𝚎𝚍𝚒𝚌𝚘 𝚊 𝚎𝚡𝚙𝚛𝚒𝚖𝚒𝚛 𝚝𝚘𝚍𝚊𝚜 𝚕𝚊𝚜 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐í𝚊𝚜 𝚙𝚘𝚜𝚒𝚋𝚕𝚎𝚜, 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚕𝚊 <img src="https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-20232A?style=for-the-badge&logo=openai&logoColor=412991" height="20" valign="middle" />, 𝚙𝚊𝚛𝚊 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚘𝚜 𝚊𝚋𝚜𝚝𝚛𝚊𝚌𝚝𝚘𝚜 𝚎𝚗 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚘𝚜 𝚛𝚎𝚊𝚕𝚎𝚜.
-  </p>
 </div>
 
 ### **🐍 Backend & Automation**
